@@ -9,11 +9,9 @@ img{
 }
 
 .container{
-    width:200px;
-    float:left;
-    padding:6px;
+    width:1000px;
+    margin: 0 auto;
 }
-
 .list{
     font-weight:bold ;
 }
