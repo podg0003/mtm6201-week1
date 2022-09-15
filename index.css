@@ -2,14 +2,19 @@ body{
     background-color:#FFCDED;
 }
 
-main{
-    width:200px;
-    float:left;
-    padding:6px;
-}
-
 img{
     display:block;
     width:500px;
     margin-left: auto;
 }
+
+.main{
+    width:200px;
+    float:left;
+    padding:6px;
+}
+
+.dt{
+    font-weight:bold ;
+}
+
