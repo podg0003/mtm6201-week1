@@ -8,13 +8,13 @@ img{
     margin-left: auto;
 }
 
-.main{
+.container{
     width:200px;
     float:left;
     padding:6px;
 }
 
-.dt{
+.list{
     font-weight:bold ;
 }
 
