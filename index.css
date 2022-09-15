@@ -1,3 +1,9 @@
 body{
-    background-color:lightpink;
+    background-color:#FFCDED;
+}
+
+main{
+    width:200px;
+    float:left;
+    padding:6px;
 }
