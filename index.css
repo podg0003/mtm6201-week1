@@ -6,6 +6,7 @@ img{
     display:block;
     width:500px;
     margin-left: auto;
+    float: left;
 }
 
 .container{
