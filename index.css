@@ -7,3 +7,9 @@ main{
     float:left;
     padding:6px;
 }
+
+img{
+    display:block;
+    width:500px;
+    margin-left: auto;
+}
